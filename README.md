@@ -1,2 +1,2 @@
-# Systan-Epic.exe-no-skid-
-No skid!!!!!!!!!!!!!!!! How pankoza death plus
+# Systan Epic
+C++ short skidded GDI trojan by Mist32bick
